@@ -188,7 +188,7 @@ body {
 }
 
 .data h1 {
-  font-size: 3rem
+  font-size: 5rem;
    margin: 0 auto;
   margin-top: 3rem;
 }
@@ -385,6 +385,7 @@ body {
 .contact img {
   width: 80%;
 }
+
 
 
 
